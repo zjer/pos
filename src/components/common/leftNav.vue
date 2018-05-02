@@ -41,7 +41,7 @@
     height: 100%;
     background-color: #1d8ce0;
     float: left;
-    font-size: 10px;
+    font-size: 14px;
     color: #ffffff;
   }
   .left-nav ul {
@@ -51,9 +51,10 @@
   .left-nav ul li {
     list-style: none;
     text-align: center;
+    padding: 5px 0;
     border-bottom: 1px solid #20a0ff;
   }
   .iconfont {
-    font-size: 16px;
+    font-size: 18px;
   }
 </style>
